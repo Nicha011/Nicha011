@@ -1,6 +1,6 @@
 h1 {
     font-size: 6em;
-    color:#9A2EFE;
+    color:#00FF00;
     font-family: serif;
     font-style: italic;
     text-align: center;
@@ -19,5 +19,5 @@ input{
     font-size: 2em;
     padding: 0%;
     font-weight: bold;
-    border: #00FF00 solid 2px;
+    border: #9A2EFE solid 2px;
 }
